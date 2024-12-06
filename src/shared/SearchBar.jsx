@@ -21,7 +21,7 @@ const SearcBar = () => {
         <FormGroup className="d-flex gap-3 form__group form-group-fast">
             <span><i class="ri-map-pin-line"></i></span>
             <div>
-                <h6>Location</h6>
+                <h6>platform</h6>
                 <input type="text" placeholder="where to conduct ?" ref={locationRef}/>
             </div>
         </FormGroup>
